@@ -1857,8 +1857,8 @@ express@^4.13.3:
     vary "~1.1.2"
 
 extend@3, extend@^3.0.0, extend@~3.0.0, extend@~3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.1.tgz#a755ea7bc1adfcc5a31ce7e762dbaadc5e636444"
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
 
 extglob@^0.3.1:
   version "0.3.2"
@@ -5218,13 +5218,13 @@ type-is@~1.6.15:
     media-typer "0.3.0"
     mime-types "~2.1.15"
 
+typescript@2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.3.4.tgz#3d38321828231e434f287514959c37a82b629f42"
+
 "typescript@>=2.0.0 <2.6.0", typescript@^2.3.3:
   version "2.5.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.5.3.tgz#df3dcdc38f3beb800d4bc322646b04a3f6ca7f0d"
-
-"typescript@>=2.1.0 <2.4.0":
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.3.4.tgz#3d38321828231e434f287514959c37a82b629f42"
 
 uglify-js@3.1.x:
   version "3.1.3"
